@@ -3,10 +3,13 @@ Builds off a simple server implementation in C. I want to create a robust HTTPS 
 
 [Simple HTTP implementation](https://github.com/hashjaco/C-HTTP-Server)
 
+# Problem Solving
+
 # Learning Objectives
 - Understand the differences between HTTP and HTTPS servers. Transition the base HTTP server into a HTTPS server
 - Use pentesting/vulnerabilitiy tools to create a robust server
 - Document misconceptions and roadblocks. This ties with the disclaimer below
+- Connect with [OWASP Top Ten](https://owasp.org/www-project-top-ten/#:~:text=The%20OWASP%20Top%2010%20is,step%20towards%20more%20secure%20coding)
 
 \*DISCLAIMER: This is a developing project so take the information with a grain of salt. The goal is to promote the learning experience rather than getting everything right at the start.
 
