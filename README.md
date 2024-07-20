@@ -1,5 +1,5 @@
 # HTTPS-Server
-Builds off a simple server implementation in C. I want to create a robust HTTPS server, keeping security in mind. 
+Builds off a simple server implementation in C. I want to create a robust HTTPS server, keeping security in mind.
 
 [Simple HTTP implementation](https://github.com/hashjaco/C-HTTP-Server)
 
@@ -42,6 +42,7 @@ Future Items
 
 ## Documentation
 ### Understanding the Base Code
+[Base Code](https://github.com/hashjaco/C-HTTP-Server)
 - 
 
 ## Implementation
