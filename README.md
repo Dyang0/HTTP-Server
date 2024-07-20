@@ -8,7 +8,7 @@ Builds off a simple server implementation in C. I want to create a robust HTTPS 
 - Use pentesting/vulnerabilitiy tools to create a robust server
 - Document misconceptions and roadblocks. This ties with the disclaimer below
 
-\*DISCLAIMER: This is a developing project so take the information with a grain of salt. I will document my findings in hopes of promoting the learning experience.
+\*DISCLAIMER: This is a developing project so take the information with a grain of salt. The goal is to promote the learning experience rather than getting everything right at the start.
 
 ## Setting Up the Envirionment
 
