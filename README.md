@@ -26,6 +26,9 @@ Future Items
 - SQL database (store random data)
 - Implement TLS/SSL protocol
 
+## Documentation
+### Understanding the Base Code
+
 ## Implementation
 
 ![image](https://github.com/user-attachments/assets/5620b80a-9586-4706-8835-88c88e03f31f)
