@@ -33,4 +33,5 @@ Future Items
 ![image](https://github.com/user-attachments/assets/5620b80a-9586-4706-8835-88c88e03f31f)
 
 ![image](https://github.com/user-attachments/assets/18c5b914-b0aa-48a2-9e59-d6cfac576fad)
-It is exciting that I can request items from my server through a web browser by using "http://localhost:[port number]/[item]"
+
+- It is exciting that I can request items from my server through a web browser by using "http://localhost:[port number]/[item]"
