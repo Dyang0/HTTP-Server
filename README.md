@@ -1,5 +1,5 @@
 # HTTPS-Server
-Builds off a simple HTTP server implementation in C. The goal is to create a robust HTTPS server, keeping security in mind.
+Builds off a simple HTTP server implementation in C. The goal is to convert the HTTP server into a robust HTTPS server, keeping security in mind.
 
 [Simple HTTP implementation](https://github.com/hashjaco/C-HTTP-Server)
 
