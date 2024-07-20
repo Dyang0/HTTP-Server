@@ -10,9 +10,11 @@ Builds off a simple server implementation in C. I want to create a robust HTTPS 
 
 \*DISCLAIMER: This is a developing project so take the information with a grain of salt. The goal is to promote the learning experience rather than getting everything right at the start.
 
-## Setting Up the Envirionment
+## Server Structure
 
-![image](https://github.com/user-attachments/assets/5620b80a-9586-4706-8835-88c88e03f31f)
+
 
 ![image](https://github.com/user-attachments/assets/67f9e13b-7813-4662-87b5-6754955d6a5c)
+
+![image](https://github.com/user-attachments/assets/5620b80a-9586-4706-8835-88c88e03f31f)
 
