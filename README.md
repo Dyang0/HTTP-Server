@@ -14,6 +14,20 @@ Builds off a simple server implementation in C. I want to create a robust HTTPS 
 
 \*DISCLAIMER: This is a developing project so take the information with a grain of salt. The goal is to promote the learning experience rather than getting everything right at the start.
 
+# Helpful Commands
+
+Git
+- git status
+- git add --all
+- git commit -m "[comment]"
+- git push
+
+Curl
+- curl -v localhost:8080/home.html
+
+gdb
+- [Look up later]
+
 ## Server Structure
 
 ![image](https://github.com/user-attachments/assets/bbb03718-9f0b-450e-90e0-883fc0d128c4)
