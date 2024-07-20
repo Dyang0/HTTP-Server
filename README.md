@@ -15,7 +15,11 @@ Builds off a simple server implementation in C. I want to create a robust HTTPS 
 
 ## Server Structure
 
+![image](https://github.com/user-attachments/assets/bbb03718-9f0b-450e-90e0-883fc0d128c4)
 
+This is the basic structure of my HTTP server. The server is run on a localhost using the port 8080 and curl is used to make requests to the server in order to get items in that server. 
+
+## Implementation
 
 ![image](https://github.com/user-attachments/assets/67f9e13b-7813-4662-87b5-6754955d6a5c)
 
