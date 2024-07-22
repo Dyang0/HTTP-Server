@@ -18,6 +18,7 @@
 #define PORT 8080
 #define BUFFER_SIZE 104857600
 // test comment
+// git test
 const char *get_file_extension(const char *file_name) {
     const char *dot = strrchr(file_name, '.');
     if (!dot || dot == file_name) {
