@@ -52,3 +52,9 @@ Future Items
 ![image](https://github.com/user-attachments/assets/18c5b914-b0aa-48a2-9e59-d6cfac576fad)
 
 It is exciting that I can request items from my server through a web browser by using "http://localhost:[port number]/[item]"
+
+## Roadblocks
+
+![image](https://github.com/user-attachments/assets/779b29b6-25ad-4a76-9902-74159aa6dfaf)
+-
+
