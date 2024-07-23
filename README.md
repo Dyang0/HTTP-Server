@@ -40,7 +40,7 @@ Future Items
 
 ## Documentation
 ### All Methods
-- const char *get_file_extension(const char *filename) [HELPER FUNCTION]
+- const char *get_file_extension(const char *filename)
 - const char *get_mime_type(const char *file_ext)
 - bool case_insensitive_compare(const char *s1, const char *s2)
 - char *get_file_case_insensitive(const char *file_name)
@@ -49,7 +49,7 @@ Future Items
 - void *handle_client(void *arg)
 - int main(int argc, char *argv[])
 
-### 
+<span style="color: blue;">This text is blue.</span>
 
 ## Implementation
 
