@@ -49,7 +49,10 @@ Future Items
 - void *handle_client(void *arg)
 - int main(int argc, char *argv[])
 
-<span style="color: blue;">This text is blue.</span>
+### Sorted Methods
+
+
+
 
 ## Implementation
 
