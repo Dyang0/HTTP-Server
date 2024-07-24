@@ -50,7 +50,7 @@ Future Items
 - int main(int argc, char *argv[])
 
 ### Sorted Methods
-
+![Sketch 7-23-2024 839 PM](https://github.com/user-attachments/assets/fd36b4b0-ba81-4067-b7cf-64a62c895200)
 
 
 
