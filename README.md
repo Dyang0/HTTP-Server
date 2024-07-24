@@ -52,6 +52,7 @@ Future Items
 ### Sorted Methods
 ![Sketch 7-23-2024 839 PM](https://github.com/user-attachments/assets/fd36b4b0-ba81-4067-b7cf-64a62c895200)
 
+I have created a diagram to visualize what methods call others. This helps me see and understand the components of a client/server interaction.
 
 
 ## Implementation
