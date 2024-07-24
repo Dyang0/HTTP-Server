@@ -68,3 +68,7 @@ It is exciting that I can request items from my server through a web browser by 
 ![image](https://github.com/user-attachments/assets/779b29b6-25ad-4a76-9902-74159aa6dfaf)
 -
 
+## Helpful Resources
+
+- [Understanding Client-Server Architecture in System Design](https://medium.com/@nirajranasinghe/understanding-client-server-architecture-in-system-design-9da079efde60)
+  
