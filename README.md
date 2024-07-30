@@ -14,6 +14,9 @@ Builds off a [simple HTTP server implementation in C](https://github.com/Jeffrey
 
 # Helpful Commands
 
+General
+- rm -rf [directory name]
+
 Git
 - git status
 - git add --all
